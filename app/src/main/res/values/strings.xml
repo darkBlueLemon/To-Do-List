@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string-array name="activities">
+        <item>lemon</item>
+        <item>grape</item>
+        <item>kiwi</item>
+        <item>grape</item>
+    </string-array>
+<!--    <integer name="counter">0</integer>-->
+</resources>
